@@ -1,0 +1,10 @@
+{
+  "server": {
+    "requireAccount": false,
+    "requireToken": false,
+    "apiEnabled": true
+  },
+  "game": {
+    "version": "2022.12.8"
+  }
+}
